@@ -47,13 +47,10 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Lxde Adjustment](https://samwhelp.github.io/lxde-adjustment/) | [GitHub](https://github.com/samwhelp/lxde-adjustment) |
-| [Pardus Lxde Adjustment](https://samwhelp.github.io/pardus-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/pardus-lxde-adjustment) |
 | [Debian Lxde Adjustment](https://samwhelp.github.io/debian-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/debian-lxde-adjustment) |
-| [Ubuntu Lxde Adjustment](https://samwhelp.github.io/ubuntu-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-lxde-adjustment) |
 | [Fedora Lxde Adjustment](https://samwhelp.github.io/fedora-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-lxde-adjustment) |
 | [Archlinux Lxde Adjustment](https://samwhelp.github.io/archlinux-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-lxde-adjustment) |
-| [Manjaro Lxde Adjustment](https://samwhelp.github.io/manjaro-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-lxde-adjustment) |
-| [Solus Lxde Adjustment](https://samwhelp.github.io/solus-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/solus-lxde-adjustment) |
+
 
 
 
